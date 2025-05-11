@@ -2,7 +2,7 @@
 
 Une application Web de gestion de tâches avec sauvegarde locale et interface intuitive.
 
-![Aperçu de l'application](https://raw.githubusercontent.com/FrejusAdedemi/todolist/main/assets/preview.png) <!-- Remplace ce lien si l'image est ailleurs -->
+![Aperçu de l'application](https://github.com/FrejusAdedemi/todolist/blob/master/assets/preview.png) <!-- Remplace ce lien si l'image est ailleurs -->
 
 ## ✨ Fonctionnalités
 
